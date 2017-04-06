@@ -8,7 +8,7 @@
         }
     ],
     "license": "MIT",
-    "minimum-stability": "~0.1",
+    "minimum-stability": "dev-master",
     "require": {},
     "autoload": {
         "psr-4": {
