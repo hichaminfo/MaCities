@@ -1,0 +1,13 @@
+{
+    "name": "chamhi/macities",
+    "description": "Full package with Moroccan cities",
+    "authors": [
+        {
+            "name": "Hicham AIT",
+            "email": "hicham.info.ecg@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
