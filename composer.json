@@ -1,5 +1,5 @@
 {
-    "name": "hichaminfo/MaCities",
+    "name": "hichaminfo/macities",
     "description": "Full package with Moroccan cities",
     "authors": [
         {
@@ -8,7 +8,7 @@
         }
     ],
     "license": "MIT",
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
