@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace Chamhi\MaCities;
 
 use Illuminate\Database\Eloquent\Model;
 
